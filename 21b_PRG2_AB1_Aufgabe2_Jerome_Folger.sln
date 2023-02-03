@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21b_PRG2_AB1_Aufgabe2_Jerome_Folger", "21b_PRG2_AB1_Aufgabe2_Jerome_Folger\21b_PRG2_AB1_Aufgabe2_Jerome_Folger.csproj", "{2B03185A-120D-4E73-A1CC-99F5FDDFAB00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B03185A-120D-4E73-A1CC-99F5FDDFAB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B03185A-120D-4E73-A1CC-99F5FDDFAB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B03185A-120D-4E73-A1CC-99F5FDDFAB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B03185A-120D-4E73-A1CC-99F5FDDFAB00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A75A7D3F-09D6-4465-A8C9-07FB5AA12F7D}
+	EndGlobalSection
+EndGlobal
