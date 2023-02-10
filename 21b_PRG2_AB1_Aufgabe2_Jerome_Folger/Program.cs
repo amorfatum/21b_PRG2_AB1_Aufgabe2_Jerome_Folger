@@ -6,11 +6,13 @@ internal class Program
     {
         Auto lambo = new Auto("Lamborghini murcielago", 1000, 340, 2);
 
+        lambo.CarLock = "Abc123";
+
         lambo.InsertKey("abc1234");
 
         lambo.StartEngine();
 
-        lambo.InsertKey("abc123");
+        lambo.InsertKey("Abc123");
 
         lambo.StartEngine();
 

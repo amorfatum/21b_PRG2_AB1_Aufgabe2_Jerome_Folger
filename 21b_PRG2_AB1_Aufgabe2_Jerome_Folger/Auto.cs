@@ -8,7 +8,7 @@ namespace _21b_PRG2_AB1_Aufgabe2_Jerome_Folger
 {
     internal class Auto : Fahrzeug
     {
-        private string carLock = "abc123";
+        public string CarLock { get; set; }
         public int NumberOfDoors { get; set; }
         public bool KeyInserted { get; set; }
 
@@ -44,7 +44,7 @@ namespace _21b_PRG2_AB1_Aufgabe2_Jerome_Folger
 
         public void InsertKey(string key)
         {
-            if(key == this.carLock)
+            if(key == this.CarLock)
             {
                 KeyInserted = true;
             }
